@@ -1,0 +1,23 @@
+{
+    "67853e3b5d754": {
+        "car_id": "10",
+        "start_date": "2025-01-14",
+        "end_date": "2025-01-15",
+        "user_email": "email@mail.hu",
+        "id": "67853e3b5d754"
+    },
+    "67866a0b16c50": {
+        "car_id": "2",
+        "start_date": "2025-01-24",
+        "end_date": "2025-01-25",
+        "user_email": "email@mail.hu",
+        "id": "67866a0b16c50"
+    },
+    "67866d9792ca0": {
+        "car_id": "2",
+        "start_date": "2025-01-16",
+        "end_date": "2025-01-18",
+        "user_email": "email@mail.hu",
+        "id": "67866d9792ca0"
+    }
+}

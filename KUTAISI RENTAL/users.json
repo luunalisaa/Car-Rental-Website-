@@ -1,0 +1,23 @@
+{
+    "6783bd2fbe7d5": {
+        "full_name": "meki",
+        "email": "email@mail.com",
+        "password": "$2y$10$GyotJ.JrqUgju\/1lSPbJSuSTbECVwfy0t.k0VYlAIV5YKIh48TNwi",
+        "is_admin": false,
+        "id": "6783bd2fbe7d5"
+    },
+    "678502ee3b693": {
+        "full_name": "not meki",
+        "email": "email@mail.hu",
+        "password": "$2y$10$uVbK27hdJyvD69NBvEMerOYeZzza7IBHY5VVHnTlH77EF9C1aLQ2O",
+        "is_admin": false,
+        "id": "678502ee3b693"
+    },
+    "admin": {
+        "full_name": "admin",
+        "email": "admin@mail.com",
+        "password": "password",
+        "is_admin": true,
+        "id": "678502ee3b693"
+    }
+}

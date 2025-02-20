@@ -1,0 +1,112 @@
+{
+    "2": {
+        "id": 2,
+        "brand": "Nissan",
+        "model": "Altima",
+        "year": 2016,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_GEL": 14400,
+        "image": "https:\/\/media.ed.edmunds-media.com\/nissan\/altima\/2016\/oem\/2016_nissan_altima_sedan_25-sr_fq_oem_1_815.jpg"
+    },
+    "3": {
+        "id": 3,
+        "brand": "Volkswagen",
+        "model": "Jetta",
+        "year": 2014,
+        "transmission": "Manual",
+        "fuel_type": "Diesel",
+        "passengers": 5,
+        "daily_price_GEL": 13000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/volkswagen\/jetta\/2025\/oem\/2025_volkswagen_jetta_sedan_sel_fq_oem_1_815.jpg"
+    },
+    "4": {
+        "id": 4,
+        "brand": "Subaru",
+        "model": "Impreza",
+        "year": 2012,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_GEL": 12000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/subaru\/impreza\/2022\/oem\/2022_subaru_impreza_4dr-hatchback_limited_fq_oem_1_815.jpg"
+    },
+    "5": {
+        "id": 5,
+        "brand": "Ford",
+        "model": "Focus",
+        "year": 2018,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_GEL": 13500,
+        "image": "https:\/\/media.ed.edmunds-media.com\/ford\/focus\/2013\/oem\/2013_ford_focus_4dr-hatchback_bev_fq_oem_1_815.jpg"
+    },
+    "6": {
+        "id": 6,
+        "brand": "Tesla",
+        "model": "Model S",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 5,
+        "daily_price_GEL": 45000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-s\/2021\/oem\/2021_tesla_model-s_sedan_plaid_fq_oem_1_815.jpg"
+    },
+    "7": {
+        "id": 7,
+        "brand": "Toyota",
+        "model": "Highlander",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 7,
+        "daily_price_GEL": 20000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/toyota\/highlander\/2020\/oem\/2020_toyota_highlander_4dr-suv_platinum_fq_oem_1_815.jpg"
+    },
+    "8": {
+        "id": 8,
+        "brand": "Chevrolet",
+        "model": "Suburban",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 8,
+        "daily_price_GEL": 24000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/chevrolet\/suburban\/2021\/oem\/2021_chevrolet_suburban_4dr-suv_high-country_fq_oem_1_815.jpg"
+    },
+    "10": {
+        "id": 10,
+        "brand": "Tesla",
+        "model": "Model X",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 7,
+        "daily_price_GEL": 48000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-x\/2024\/oem\/2024_tesla_model-x_4dr-suv_plaid_fq_oem_1_815.jpg"
+    },
+    "67851a53e1709": {
+        "brand": "Toyota",
+        "model": "BRZ",
+        "year": "2022",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": "4",
+        "daily_price_GEL": "25000",
+        "image": "https:\/\/m.atcdn.co.uk\/ect\/media\/%7Bresize%7D\/4b14ab0c7868451baf5912779f112f40.jpg",
+        "id": "67851a53e1709"
+    },
+    "67853c0a52d81": {
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": "2018",
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": "4",
+        "daily_price_GEL": "23000",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2025-ford-mustang-60th-anniversary-exterior-66227932bb88e.jpg?crop=0.596xw:1.00xh;0.199xw,0&resize=768:*",
+        "id": "67853c0a52d81"
+    }
+}
